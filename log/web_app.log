@@ -1,0 +1,43 @@
+{"level":"INFO","time":"2022-06-02T19:26:02.661+0800","caller":"logger/logger.go:49","msg":"init logger success"}
+{"level":"ERROR","time":"2022-06-02T19:26:02.671+0800","caller":"mysql/mysql.go:20","msg":"connet mysql DB failed","error":"Error 1049: Unknown database 'db_demo'"}
+{"level":"INFO","time":"2022-06-02T19:26:58.574+0800","caller":"logger/logger.go:49","msg":"init logger success"}
+{"level":"ERROR","time":"2022-06-02T19:27:00.613+0800","caller":"redis/redis.go:30","msg":"connet redis DB failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-06-02T19:34:37.777+0800","caller":"logger/logger.go:49","msg":"init logger success"}
+{"level":"INFO","time":"2022-06-02T19:34:54.476+0800","caller":"logger/logger.go:82","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36","errors":"","cost":0.0011438}
+{"level":"INFO","time":"2022-06-02T19:34:54.655+0800","caller":"logger/logger.go:82","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36","errors":"","cost":0.0032329}
+{"level":"INFO","time":"2022-06-02T19:35:56.931+0800","caller":"web_app/main.go:89","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-06-02T19:35:56.942+0800","caller":"web_app/main.go:97","msg":"Server exiting"}
+{"level":"INFO","time":"2022-06-02T19:36:04.043+0800","caller":"logger/logger.go:49","msg":"init logger success"}
+{"level":"INFO","time":"2022-06-02T19:39:43.585+0800","caller":"logger/logger.go:49","msg":"init logger success"}
+{"level":"INFO","time":"2022-06-02T19:40:03.825+0800","caller":"logger/logger.go:82","msg":"/swagger/index.html","status":200,"method":"GET","path":"/swagger/index.html","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36","errors":"","cost":0.0060134}
+{"level":"INFO","time":"2022-06-02T19:40:03.879+0800","caller":"logger/logger.go:82","msg":"/swagger/swagger-ui-standalone-preset.js","status":200,"method":"GET","path":"/swagger/swagger-ui-standalone-preset.js","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36","errors":"","cost":0.0031129}
+{"level":"INFO","time":"2022-06-02T19:40:03.880+0800","caller":"logger/logger.go:82","msg":"/swagger/swagger-ui.css","status":200,"method":"GET","path":"/swagger/swagger-ui.css","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36","errors":"","cost":0.0036578}
+{"level":"INFO","time":"2022-06-02T19:40:03.880+0800","caller":"logger/logger.go:82","msg":"/swagger/swagger-ui-bundle.js","status":200,"method":"GET","path":"/swagger/swagger-ui-bundle.js","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36","errors":"","cost":0.0052453}
+{"level":"INFO","time":"2022-06-02T19:40:25.058+0800","caller":"logger/logger.go:82","msg":"/swagger/favicon-32x32.png","status":200,"method":"GET","path":"/swagger/favicon-32x32.png","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36","errors":"","cost":0.0009775}
+{"level":"INFO","time":"2022-06-02T19:40:25.134+0800","caller":"logger/logger.go:82","msg":"/swagger/doc.json","status":200,"method":"GET","path":"/swagger/doc.json","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36","errors":"","cost":0.001805}
+{"level":"INFO","time":"2022-06-02T19:40:47.952+0800","caller":"logger/logger.go:82","msg":"/swagger/doc.json","status":200,"method":"GET","path":"/swagger/doc.json","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36","errors":"","cost":0.0014285}
+{"level":"INFO","time":"2022-06-02T19:45:07.394+0800","caller":"web_app/main.go:89","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-06-02T19:45:07.410+0800","caller":"web_app/main.go:97","msg":"Server exiting"}
+{"level":"INFO","time":"2022-06-06T22:10:45.088+0800","caller":"logger/logger.go:49","msg":"init logger success"}
+{"level":"ERROR","time":"2022-06-06T22:10:47.251+0800","caller":"redis/redis.go:30","msg":"connet redis DB failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-06-06T22:10:56.049+0800","caller":"logger/logger.go:49","msg":"init logger success"}
+{"level":"ERROR","time":"2022-06-06T22:10:58.098+0800","caller":"redis/redis.go:30","msg":"connet redis DB failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-06-06T22:31:20.690+0800","caller":"logger/logger.go:50","msg":"init logger success"}
+{"level":"INFO","time":"2022-06-06T22:33:11.649+0800","caller":"web_app/main.go:88","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-06-06T22:33:11.653+0800","caller":"web_app/main.go:96","msg":"Server exiting"}
+{"level":"INFO","time":"2022-06-06T22:33:15.535+0800","caller":"logger/logger.go:50","msg":"init logger success"}
+{"level":"INFO","time":"2022-06-06T22:33:39.302+0800","caller":"logger/logger.go:85","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36","errors":"","cost":0.0001414}
+{"level":"INFO","time":"2022-06-06T22:33:39.567+0800","caller":"logger/logger.go:85","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-06-06T22:33:57.066+0800","caller":"logger/logger.go:85","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-06-06T22:34:03.858+0800","caller":"logger/logger.go:85","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-06-06T22:34:15.849+0800","caller":"web_app/main.go:88","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-06-06T22:34:15.859+0800","caller":"web_app/main.go:96","msg":"Server exiting"}
+{"level":"INFO","time":"2022-06-06T22:39:46.501+0800","caller":"logger/logger.go:50","msg":"init logger success"}
+{"level":"INFO","time":"2022-06-06T22:39:57.317+0800","caller":"web_app/main.go:88","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-06-06T22:39:57.317+0800","caller":"web_app/main.go:96","msg":"Server exiting"}
+{"level":"INFO","time":"2022-06-06T22:55:33.198+0800","caller":"logger/logger.go:50","msg":"init logger success"}
+{"level":"INFO","time":"2022-06-06T22:55:34.647+0800","caller":"web_app/main.go:88","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-06-06T22:55:34.658+0800","caller":"web_app/main.go:96","msg":"Server exiting"}
+{"level":"INFO","time":"2022-06-06T22:56:12.848+0800","caller":"logger/logger.go:50","msg":"init logger success"}
+{"level":"INFO","time":"2022-06-06T22:56:13.935+0800","caller":"web_app/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-06-06T22:56:13.949+0800","caller":"web_app/main.go:100","msg":"Server exiting"}
